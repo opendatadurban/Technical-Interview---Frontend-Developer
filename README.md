@@ -14,7 +14,7 @@ This practical assessment is intended to show us that:
 - The tools of choice to solve the problem.
 - You understand the requirements from the information provided.
 
-The assessment takes around 2 days. We will set up another session to go through what you have done.
+The assessment takes around 3 days. We will set up another session to go through what you have done.
 
 ## Background
 
