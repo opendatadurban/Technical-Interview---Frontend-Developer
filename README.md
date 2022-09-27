@@ -20,7 +20,7 @@ The assessment takes around 3 days. We will set up another session to go through
 
 You bought a smart frame that can connect to the internet, and you want to use it to show artwork in your house.
 
-Using Javascript/Typescript as the frontend, your task is to create an inter-active website that displays artwork that you pull from the Metropolitan Museum’s API. You can choose any framework to help you build the website.
+Using Javascript or Typescript as the frontend, your task is to create an inter-active website that displays artwork that you pull from the Metropolitan Museum’s API. You can choose any framework to help you build the website.
 
 ## Assignment
 - The website should change artworks every 10 seconds
